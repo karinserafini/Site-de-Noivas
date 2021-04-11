@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+}
+
+.display-3 {
+    font-family: 'Homemade Apple', cursive;
+}
+.display-4 {
+    font-family: 'Homemade Apple', cursive;
+}
+
+.card {
+    margin-top: 5rem;
+    padding: 0;
+}
+
+.container-fluid {
+    height: 20rem;
+    background-color: bisque;
+}
+
+.img-slide {
+    margin-top: 20px;
+    height: 700px;
+    width: 90%;
+}
+
+form {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+footer{
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 5px;
+    height: 120px;
+    width: 100%;
+}
+footer img {  
+      
+    margin: 10px;
+    width: 2.2em;
+    height: 2.2em;
+}
+
+.endereco {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li {
+    list-style: none;
+}
+
+.exemplos {
+    margin-bottom: 30px;
+}
